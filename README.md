@@ -2,6 +2,10 @@
 
 学习websocket，并实现多屏同时轮播的效果
 
+最终效果
+
+![](http://oxr1yw1uk.bkt.clouddn.com/2017/11/04/carousel.gif)
+
 # 使用WebSocket来构建一个交互的web应用程序\[[译](https://spring.io/guides/gs/messaging-stomp-websocket/)\]
 
 本指南将引导您完成创建“hello world”应用程序的过程，该应用程序在浏览器和服务器之间来回发送消息。 WebSocket是TCP之上的一个非常轻薄的层。 它使得使用“子协议”嵌入消息非常合适。 在本指南中，我们将深入Spring并使用STOMP消息传递来创建交互式Web应用程序。
